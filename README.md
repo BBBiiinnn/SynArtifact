@@ -11,7 +11,7 @@ Figure1. Artifact Taxonomy. The entire artifact taxonomy contains 13 kinds of ar
 Figure2. Visualization of Samples of SynArtifact-1k. Each synthetic image with artifacts is annotated with bounding box and caption. Then, annotator maps the artifact caption into artifact taxonomy.
 
 ## Data Structure
-The entire data set is divided into 5 components. Each split of dataset consists of three parts: `annotation_image`, which contains synthetic images with annotation, `annotation_json_artifacts_class`, which provides artifact label, bounding box and caption of synthetic images, images, which contains originally synthetic images. `train.txt` and `eval.txt` contain image path of training set and evaluation set respectively. `artifact_class.csv` contains the index of the artifact label.
+The entire data set is divided into 5 components. Each split of dataset consists of three parts: `annotation_image`, which contains synthetic images with annotation, `annotation_json_artifacts_class`, which provides artifact label, bounding box and caption of synthetic images, images, which contains originally synthetic images. `train.txt` and `eval.txt` contain image path of training set and evaluation set respectively. `artifacts classes.xlsx` contains the index of the artifact label.
 ```
 data
 ├── sub_data_0                      
@@ -50,7 +50,7 @@ data
 │   ├── annotation_json_artifacts_class
 │   └── images
 |
-├── artifact_class.csv
+├── artifacts classes.xlsx
 |
 ├── train.txt
 └── eval.txt                      
