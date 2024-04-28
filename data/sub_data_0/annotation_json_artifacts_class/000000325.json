@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion v1", "Dataset": "Drawbench", "Prompt": "New York Skyline with 'Google Brain Toronto' written with fireworks on the sky.", "Image path": "sub_data_0/images/000000325.jpg", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "The generated image does not show 'Google Brain Toronto'.", "Aesthetics score": 0.6}

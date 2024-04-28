@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion v2", "Dataset": "Drawbench", "Prompt": "A red colored car.", "Image path": "sub_data_1/images/000000382.jpg", "Artifacts annotation": [{"rect_start": [93, 130], "rect_end": [490, 327], "artifacts_caption": "distorted", "artifacts_class": "2"}], "Other artifacts caption": "out of frame", "T2I misalignment caption": "None", "Aesthetics score": 0.5}

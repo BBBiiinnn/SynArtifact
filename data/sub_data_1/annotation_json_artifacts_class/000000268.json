@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 1.5", "Dataset": "Drawbench", "Prompt": "A black colored car.", "Image path": "sub_data_1/images/000000268.jpg", "Artifacts annotation": [{"rect_start": [18, 347], "rect_end": [136, 480], "artifacts_caption": "deformed wheel", "artifacts_class": "2"}], "Other artifacts caption": "None", "T2I misalignment caption": "None", "Aesthetics score": 0.7}

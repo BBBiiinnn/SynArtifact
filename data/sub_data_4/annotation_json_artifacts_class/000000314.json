@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 2.1", "Dataset": "Drawbench", "Prompt": "Two cars on the street.", "Image path": "sub_data_4/images/000000314.jpg", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "Only one car is complete and another car is blocked.", "Aesthetics score": 0.4}

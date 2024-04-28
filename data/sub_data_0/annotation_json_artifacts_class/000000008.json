@@ -1,0 +1,35 @@
+{
+    "Model Type": "Stable Diffusion 2.1-v",
+    "Dataset": "COCO2017",
+    "Prompt": "a room with a fire place and a group of chairs ",
+    "Image path": "sub_data_0/images/000000008.png",
+    "Artifacts annotation": [
+        {
+            "rect_start": [
+                106,
+                385
+            ],
+            "rect_end": [
+                713,
+                760
+            ],
+            "artifacts_caption": "Thses chairs miss legs.",
+            "artifacts_class": "4"
+        },
+        {
+            "rect_start": [
+                401,
+                419
+            ],
+            "rect_end": [
+                444,
+                464
+            ],
+            "artifacts_caption": "Shape of fire looks unreal.",
+            "artifacts_class": "2"
+        }
+    ],
+    "Other artifacts caption": "The leftmost and rightmost chairs are out of frame.",
+    "T2I misalignment caption": "None",
+    "Aesthetics score": 0.6
+}

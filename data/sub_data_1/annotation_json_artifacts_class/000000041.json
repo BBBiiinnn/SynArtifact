@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 2.1-v", "Dataset": "COCO2017", "Prompt": "A young zebra grooms its self in the sun.", "Image path": "sub_data_1/images/000000041.png", "Artifacts annotation": [], "Other artifacts caption": "out of frame", "T2I misalignment caption": "the sun is missing", "Aesthetics score": 0.7}

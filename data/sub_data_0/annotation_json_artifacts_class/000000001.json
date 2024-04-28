@@ -1,0 +1,36 @@
+{
+    "Model Type": "Stable Diffusion 2.1-v",
+    "Dataset": "COCO2017",
+    "Prompt": "A person they sitting down in a chair.",
+    "Image path": "sub_data_0/images/000000001.png",
+    "Artifacts annotation": [
+        {
+            "rect_start": [
+                415,
+                127
+            ],
+            "rect_end": [
+                451,
+                162
+            ],
+            "artifacts_caption": "The eye and glass are distorted.",
+            "artifacts_class": "2"
+        },
+        {
+            "rect_start": [
+                316,
+                330
+            ],
+            "rect_end": [
+                425,
+                389
+            ],
+            "artifacts_caption": "The man's hand is distorted.",
+            "artifacts_class": "2"
+        }
+    ],
+    "Other artifacts caption": "The man misses a leg in the generated image.",
+    "T2I misalignment caption": "None",
+    "Aesthetics score": 0.5,
+    "tag": "Default Tag"
+}

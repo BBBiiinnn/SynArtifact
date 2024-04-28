@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion v1", "Dataset": "Drawbench", "Prompt": "An elephant under the sea.", "Image path": "sub_data_1/images/000000355.jpg", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "misaligned spatial relationship", "Aesthetics score": 0.7}

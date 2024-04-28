@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 2.1-v", "Dataset": "ImageNet-1k", "Prompt": "a photo of a wallaby", "Image path": "sub_data_3/images/000000949.png", "Artifacts annotation": [{"rect_start": [21, 20], "rect_end": [191, 227], "artifacts_caption": "deformed ear", "artifacts_class": "2"}], "Other artifacts caption": "None", "T2I misalignment caption": "None", "Aesthetics score": 0.8}

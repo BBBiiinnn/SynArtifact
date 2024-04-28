@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion v2", "Dataset": "Drawbench", "Prompt": "New York Skyline with 'NeurIPS' written with fireworks on the sky.", "Image path": "sub_data_4/images/000000363.jpg", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "'NeurIPS' is not generated.", "Aesthetics score": 0.5}

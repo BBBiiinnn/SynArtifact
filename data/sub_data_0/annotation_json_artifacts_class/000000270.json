@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 1.5", "Dataset": "Drawbench", "Prompt": "A train on top of a surfboard.", "Image path": "sub_data_0/images/000000270.jpg", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "The surfboard is not generated.", "Aesthetics score": 0.5}

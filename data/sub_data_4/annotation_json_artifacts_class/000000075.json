@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 2.1-v", "Dataset": "COCO2017", "Prompt": "Several people in a green field flying kites.", "Image path": "sub_data_4/images/000000075.png", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "Only kites are generated.Persons are not generated.", "Aesthetics score": 0.4}

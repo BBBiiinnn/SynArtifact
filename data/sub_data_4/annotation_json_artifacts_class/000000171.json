@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 2.1-v", "Dataset": "COCO2017", "Prompt": "The man in the business suit takes a video of city buildings.", "Image path": "sub_data_4/images/000000171.png", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "The man in the business is not shown in the image.", "Aesthetics score": 0.4}

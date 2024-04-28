@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 2.1-v", "Dataset": "COCO2017", "Prompt": "A sandwich with some strawberry yogurt and orange juice. ", "Image path": "sub_data_0/images/000000111.png", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "The strawberries instead of strawberry yogurt are generated. ", "Aesthetics score": 0.6}

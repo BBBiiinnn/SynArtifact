@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 1.5", "Dataset": "Drawbench", "Prompt": "A green apple and a black backpack.", "Image path": "sub_data_0/images/000000267.jpg", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "The green apple is not generated and the color of backpack  is green in the image.", "Aesthetics score": 0.6}

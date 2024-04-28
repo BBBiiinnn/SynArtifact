@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 1.4", "Dataset": "Drawbench", "Prompt": "A white colored sandwich.", "Image path": "sub_data_0/images/000000207.jpg", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "The sandwich is not white in the generated image.", "Aesthetics score": 0.6}

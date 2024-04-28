@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion v1", "Dataset": "Drawbench", "Prompt": "A bird scaring a scarecrow.", "Image path": "sub_data_4/images/000000326.jpg", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "The bird is not generated in the image.", "Aesthetics score": 0.4}

@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 2.1-v", "Dataset": "COCO2017", "Prompt": "In a city, the buildings are illuminated while trains sit below.", "Image path": "sub_data_4/images/000000035.png", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "The train is not generated.", "Aesthetics score": 0.5}

@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 2.1-v", "Dataset": "COCO2017", "Prompt": "A view from the street overlooks the ocean.", "Image path": "sub_data_3/images/000000199.png", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "a view of the ocean is missing in the image", "Aesthetics score": 0.7}

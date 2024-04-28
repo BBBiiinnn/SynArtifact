@@ -1,0 +1,10 @@
+{
+    "Model Type": "Stable Diffusion 2.1-v",
+    "Dataset": "COCO2017",
+    "Prompt": "A back end of a vehicle with a metal rack and an antennae.",
+    "Image path": "sub_data_4/images/000000000.png",
+    "Artifacts annotation": [],
+    "Other artifacts caption": "None",
+    "T2I misalignment caption": "None",
+    "Aesthetics score": 0.5
+}

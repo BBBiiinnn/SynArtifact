@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 2.1-v", "Dataset": "COCO2017", "Prompt": "A man in shallow water bending over to pick up a frisbee.", "Image path": "sub_data_1/images/000000170.png", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "missing frisbee", "Aesthetics score": 0.4}

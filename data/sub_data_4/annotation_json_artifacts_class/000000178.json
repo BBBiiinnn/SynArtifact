@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 2.1-v", "Dataset": "COCO2017", "Prompt": "A white tent with a row of surfboards sitting under it.", "Image path": "sub_data_4/images/000000178.png", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "Surfboards are on the tent not under tent.", "Aesthetics score": 0.6}

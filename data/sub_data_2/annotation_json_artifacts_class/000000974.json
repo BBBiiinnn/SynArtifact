@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 2.1-v", "Dataset": "ImageNet-1k", "Prompt": "a photo of a Vizsla", "Image path": "sub_data_2/images/000000974.png", "Artifacts annotation": [{"rect_start": [87, 445], "rect_end": [555, 749], "artifacts_caption": "abnormal limb", "artifacts_class": 6}], "Other artifacts caption": "None", "T2I misalignment caption": "None", "Aesthetics score": 0.3}

@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 1.4", "Dataset": "Drawbench", "Prompt": "Two cars on the street.", "Image path": "sub_data_2/images/000000234.jpg", "Artifacts annotation": [{"rect_start": [15, 230], "rect_end": [195, 395], "artifacts_caption": "deformed car", "artifacts_class": 2}], "Other artifacts caption": "None", "T2I misalignment caption": "None", "Aesthetics score": 0.4}

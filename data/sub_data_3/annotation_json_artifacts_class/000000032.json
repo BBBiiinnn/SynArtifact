@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion 2.1-v", "Dataset": "COCO2017", "Prompt": "An airplane flying in the air during the day.", "Image path": "sub_data_3/images/000000032.png", "Artifacts annotation": [], "Other artifacts caption": "the plane is not symmetric", "T2I misalignment caption": "None", "Aesthetics score": 0.7}

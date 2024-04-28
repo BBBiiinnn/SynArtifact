@@ -1,0 +1,1 @@
+{"Model Type": "Stable Diffusion v1", "Dataset": "Drawbench", "Prompt": "A blue cup and a green cell phone.", "Image path": "sub_data_2/images/000000353.jpg", "Artifacts annotation": [], "Other artifacts caption": "None", "T2I misalignment caption": "no green cell phone", "Aesthetics score": 0.6}
