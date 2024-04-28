@@ -56,6 +56,7 @@ data
 ```
 
 ## Citation
+If you find this repository helpful, please cite the paper below.
 ```
 @article{cao2024synartifact,
   title={SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model},
